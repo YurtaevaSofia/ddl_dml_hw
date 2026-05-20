@@ -16,5 +16,8 @@
 
 1.6 — подключение от имени sys_temp
 
+<img width="675" height="385" alt="Screenshot 2026-05-20 at 16 16 58" src="https://github.com/user-attachments/assets/cd2a5b5b-c127-4ccf-989b-8f9d7a125553" />
+
+1.8 — таблицы базы Sakila
 
 ### Задание 2
